@@ -27,7 +27,7 @@
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/php/php.svg" />
+<img align="left" alt="PHP" width="40px" src="https://www.vectorlogo.zone/logos/php/php.svg" />
 <br />
 <br />
 <hr />
