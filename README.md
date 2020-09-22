@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Garv Nanwani
+# I am Amir Hilal 😍
 ### a full stack web developer
 
 - 🔭 I’m currently looking for some interesting projects to work on!
