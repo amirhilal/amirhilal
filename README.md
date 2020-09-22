@@ -27,7 +27,10 @@
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+<img align="left" alt="ExpressJS" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt="PHP" width="100px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
+<img align="left" alt="laravel" width="100px" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
+
 <br />
 <br />
 <hr />
@@ -37,12 +40,12 @@
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="left" alt="laravel" width="100px" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
 <img align="left" alt="MySQL" width="100px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" alt="mongodb" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+
 <br />
 <br />
 <hr />
