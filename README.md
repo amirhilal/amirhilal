@@ -2,13 +2,11 @@
 # I am Amir Hilal 😍
 ### a full stack web developer
 
-- 🔭 I’m currently looking for some interesting projects to work on!
-- 🌱 I’m currently learning MERN STACK
-- 👯 I’m looking to collaborate on many Open Source Projects 💖
-- 🤔 I’m looking for help with career 🏢
+- 🔭 I’m currently working as a full stack developer @ Uxbert
+- 🌱 I’m learning MERN STACK
+- 👯 I’m looking to collaborate on Open Source Projects 💖
 - 💬 Ask me about anything! 🤗
 - 📫 How to reach me: [Email me](mailto:amirmajid1992@gmail.com)
-- 😄 Pronouns: He/ Him
 - ⚡ Fun fact: 📲 text me if you wanna know!
 
 
